@@ -1,0 +1,1 @@
+# flask-aks-autoscale
