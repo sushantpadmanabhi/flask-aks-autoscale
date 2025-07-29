@@ -132,22 +132,6 @@ az group delete --name myResourceGroup --yes --no-wait
 
 ---
 
-## 📖 Screenshots (Attach in Repo)
-
-* HPA scaling activity from Azure Monitor
-* Pod CPU usage and LoadBalancer response
-* Cluster metrics dashboards
-
----
-
-## 📆 Author
-
-**Your Name**
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-GitHub: [Your GitHub](https://github.com/yourusername)
-
----
-
 ## ✨ Future Enhancements
 
 * Memory-based HPA
@@ -157,4 +141,3 @@ GitHub: [Your GitHub](https://github.com/yourusername)
 
 ---
 
-> This project is a hands-on showcase of AKS autoscaling, monitoring, and deployment practices for containerized apps in Azure.
